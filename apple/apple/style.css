@@ -1,0 +1,130 @@
+* {
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: border-box;
+}
+
+.navbar {
+    padding: 10px 120px;
+    background-color: rgb(237 237 237);
+    height: 38px;
+}
+
+.navbar i {
+    font-size: 4.5vh;
+}
+
+
+
+.navbar ul li {
+    list-style: none;
+    padding: 0px 12px;
+    margin-top: 8px;
+    margin-left: 15px;
+    font-size: 2vh;
+
+}
+
+.navbar ul i {
+    font-size: 3.5vh;
+    margin-left: 50px;
+    margin-top: 8px;
+}
+
+.shop {
+    height: auto;
+    padding: 2vh 48vh;
+    font-size: 2vh;
+}
+
+.homepage img {
+    margin-top: 2vh;
+    height: auto;
+    width: 100%;
+}
+.iphone15 {
+    position: absolute;
+    left: 70vh;
+    top: 25vh;
+    color: white;
+    font-size: 4vh;
+}
+.iphone15 pre {
+font-size: 7vh;
+}
+.iphone16 {
+    position: absolute;
+    left: 80vh;
+    top: 130vh;
+    color: black;
+    font-size: 4vh;
+}
+.iphone16 pre {
+font-size: 7vh;
+}
+.watch9 {
+    position: absolute;
+    left: 87vh;
+    top: 185vh;
+    background-color: black;
+    font-size: 4vh;
+
+}
+
+.home img {
+    margin-top: 2vh;
+    margin-left: 2vh;
+    width: 20%;
+    height: 68px;
+    margin: auto;
+    margin-top: 40px;
+
+}
+
+.homepage1 img {
+    margin-top: 2vh;
+    margin-left: 2vh;
+    width: 50%;
+    height: 40vh;
+}
+
+.homepage2 img {
+    width: 50%;
+    margin-top: 2vh;
+    margin-left: 2vh;
+}
+.shopiphonewithus {
+    position: absolute;
+    left: 25vh;
+    top: 327vh;
+    color: black;
+    font-size: 4vh;
+}
+
+.homepage3 img {
+    width: 50%;
+    margin-top: 2vh;
+    margin-left: 2vh;
+}
+
+.foot {
+    background-color: rgb(220 220 234);
+    margin-top: 3vh;
+}
+
+.foot p {
+    padding: 2vh 20vh;
+    font-size: 2vh;
+}
+
+.lower h3 {
+    display: flex;
+    padding-left: 40%;
+
+}
+
+.lower {
+    display: flex;
+    padding: 4vh 9vh;
+
+}
